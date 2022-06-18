@@ -1,7 +1,7 @@
 # Desafio-Java-Spring-Boot
 Link: https://bitbucket.org/RecrutamentoDesafios/desafio-java-springboot/src/master/
 
-## Etapas Conluídas
+## Etapas Concluídas
 
 - [X] POST - Criação de um produto
 - [X] PUT - Atualização de um produto
